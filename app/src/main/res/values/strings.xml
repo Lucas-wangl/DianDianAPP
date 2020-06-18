@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DianDian</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="login_username">用户名</string>
+    <string name="login_password">密码</string>
+    <string name="login_login">登录</string>
+    <string name="login_register">立即注册</string>
+    <string name="login_find_password">找回密码</string>
+    <string name="login_password2">确认密码</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="unknown">保密</string>
+    <string name="phone">手机号</string>
+    <string name="birthday">生日</string>
+    <string name="birthday_title">请选择生日</string>
+    <string name="gender">性别</string>
+</resources>
